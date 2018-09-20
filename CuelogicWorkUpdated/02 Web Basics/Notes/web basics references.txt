@@ -1,0 +1,52 @@
+HTTP[S]:
+https://www.tutorialspoint.com/http/index.htm
+https://www.tutorialspoint.com/internet_technologies/index.htm
+https://www.webnots.com/what-is-http/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+https://techdifferences.com/difference-between-http-and-https.html
+https://seopressor.com/blog/http-vs-https/
+https://freefeast.info/difference-between/what-is-difference-between-http-and-https/
+http://www.resultantsys.com/index.php/general/what-is-a-web-application-server/
+
+
+API:
+https://zapier.com/learn/apis/
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web
+
+REST Architecture:
+https://www.lynda.com/Scala-tutorials/REST-architecture/521233/529224-4.html
+https://www.infosys.com/digital/insights/Documents/restful-web-services.pdf
+https://dzone.com/refcardz/rest-foundations-restful
+
+Session Cookies:
+https://www.tutorialspoint.com/html/mime_media_types.htm
+https://techdifferences.com/difference-between-cache-and-cookies.html 
+http://www.theitstuff.com/sessions-cookies-user-login-work
+http://www.math-cs.gordon.edu/courses/cs211/ATMExample/UseCases.html
+http://www.testinginterviewquestion.com/2014/09/what-are-differences-between-cookies.html
+
+
+Linux Command Line:
+
+https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners 
+https://linoxide.com/linux-command/essential-linux-basic-commands/ 
+https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/ 
+
+Before that try these commands
+How to display n-th line of a file? 
+How to reverse a string in unix? 
+How to check if a file is zipped in Unix?
+How to list down file/folder lists alphabetically? 
+Create a read-only file in your home directory? 
+How do you see command line history in UNIX? 
+How would kill any process in unix ? 
+Current utilisation of cpu & memory?
+
+
+MVC Design Patterns:
+https://www.geeksforgeeks.org/mvc-design-pattern/
+
+Client Side vs. Server side
+https://spin.atomicobject.com/2015/04/06/web-app-client-side-server-side/
