@@ -1,0 +1,68 @@
+<div class="grid3-item">
+				<nav>
+					<ul id="footer-nav">
+						<li><a href="#" style="color:white; text-decoration: none">About Us</a></li>
+						<li><a href="#" style="color:white; text-decoration: none">Contact us</a></li>
+						<li><a href="#" style="color:white; text-decoration: none">Terms</a></li>
+						<li><a href="#" style="color:white; text-decoration: none">Privacy Policy</a></li>
+						<li><a href="#" style="color:white; text-decoration: none">Blog</a></li>
+						<li ><a href="#" style="color:white; text-decoration: none">Careers</a></li>
+					</ul>
+				</nav>
+			</div>
+			
+			
+			footer
+{
+	width:100%;
+	text-decoration: none;
+	background-color:#0f151a;
+}
+#fot
+{
+	width: 1170px;
+	height: 360px;
+}
+#footer-logo-size
+{
+	margin-top: 50px;
+	float: left;
+}
+#footer-logo
+{
+	margin-left: 300px;
+}
+#fot-size
+{
+	margin-top: 60px;
+}
+#footer-line
+{
+	height: 80px;
+	text-align: center;
+	background-color: #0f151a;
+	border-top: 0.5px solid black;
+	color: #3e6485;
+}
+#footer-line p
+{
+	margin-top: 20px;
+}
+.grid3-item
+{
+	margin-left: 200px;
+	text-decoration: none;
+}
+#careers
+{
+	color: white;
+	background-color: balck;
+}
+
+#footer-nav
+{
+	float: right;
+	text-decoration: none;
+	list-style-type: none;
+    padding: 10px;
+}

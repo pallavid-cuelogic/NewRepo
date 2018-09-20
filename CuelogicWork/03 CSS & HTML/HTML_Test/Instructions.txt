@@ -1,0 +1,65 @@
+Use below site to get PSD details.
+https://www.photopea.com/
+
+Body font fimily 
+Quicksand
+
+Colors:
+Body text color: #000
+Body font size: 16px
+
+Primary color (Fluorescent Green)
+#a2c73c
+
+Secondary Color (Blue)
+#0072bc
+
+Header/nav
+Nav link color on mouse hover : primary color
+
+Banner 
+Height:700px
+title font size: 50px bold
+
+
+Grid Layout color codes
+Fluorescent Green: #a2c73c
+Green: #0eb049
+Light Blue: #4494d1
+Dark Blue: #075daa
+
+Well bg (blue background)
+#0072bc
+title size: 36px medium
+font size: 18px
+
+Footer Bg: #0f151a
+Footer text color: #3e6485
+
+Buttons
+height:65px;
+sm-button height: 40px;
+Bg: #a2c73c
+font-size:30px
+
+Inverse button
+border:#a2c73c 2px
+text color: #0072bc
+
+button Hover
+bg: #7fa810
+
+grid layout buttons
+height:40px;
+font-size:18px
+title font size: 26 medium
+
+
+Layout requirement
+- Use HTML5 document structure and semantic tags for the layout.
+- Use normalize and reset css
+- Take quicksand font from google font site (you can use google font CDN or you can import fonts)
+- On page scroll, the header should persist to the top.
+- banner background image, well bg (blue) and footer bg should full width.
+
+
